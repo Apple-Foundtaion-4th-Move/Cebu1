@@ -1,0 +1,42 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "119",
+                    "typeID": "Map",
+                    "zOrder": "0",
+                    "w": "337",
+                    "h": "337",
+                    "measuredW": "252",
+                    "measuredH": "222",
+                    "x": "558",
+                    "y": "2077"
+                }
+            ]
+        },
+        "attributes": {
+            "name": "\b수정중",
+            "order": 10165243.241461497,
+            "parentID": null,
+            "notes": null
+        },
+        "branchID": "Master",
+        "resourceID": "78744FBF-2CB7-4B11-B644-3B8459AC8493",
+        "mockupH": "337",
+        "mockupW": "337",
+        "measuredW": "895",
+        "measuredH": "2414",
+        "version": "1.0",
+        "calloutsOffset": {
+            "x": -1658,
+            "y": -1319
+        }
+    },
+    "groupOffset": {
+        "x": 0,
+        "y": 0
+    },
+    "dependencies": [],
+    "projectID": "2114681362:740194933"
+}
